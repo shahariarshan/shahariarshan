@@ -4,7 +4,7 @@
 
 
 ### Welcome 👋. I am Shahariar Mohammad Hassan,
- is a student pursuing a degree in Computer Science and Engineering. I am specializes in front-end development and is currently a junior front-end developer. Passionate about creating engaging and user-friendly interfaces, My aims to continuously learn and grow in the field of web development.
+ is a student   in Computer Science and Engineering. I am learning front-end development and MERN Stark Development I am currently a junior front-end developer. Passionate about creating engaging and user-friendly interfaces, My aims to continuously learn and grow in the field of web development.I want to explore myself in this side.
 
  # 💻 Tech Stack:
 
