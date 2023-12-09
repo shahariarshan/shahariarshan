@@ -15,6 +15,10 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/md.shahariar.311) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/shahariarmohammad)
+
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,tailwind,css,js,express,firebase,mongodb,react,github,netlify,vercel,visualstudio)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shahariarshan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shahariarshan&theme=dark&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahariarshan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -30,9 +34,7 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,tailwind,css,js,express,firebase,mongodb,react,github,netlify,vercel,visualstudio)](https://skillicons.dev)
 
 
 
