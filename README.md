@@ -50,12 +50,24 @@
 # 📊 My Profile Summary:
 
 
+<div align="center">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahariarshan&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahariarshan&theme=aura_dark)
+ 
+</div>
 
+
+
+
+<div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahariarshan&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahariarshan&theme=aura_dark&utcOffset=8)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahariarshan&theme=aura_dark)
+ 
+</div>
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shahariarshan&theme=discord&no-frame=true&no-bg=true&margin-w=4)
