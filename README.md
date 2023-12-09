@@ -42,9 +42,6 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahariarshan&theme=aura_dark&utcOffset=8)
-
-
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahariarshan&theme=aura_dark)
 
 ## 🏆 GitHub Trophies
