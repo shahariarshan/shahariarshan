@@ -39,12 +39,7 @@
 # 📊 GitHub Stats:
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahariarshan&theme=aura_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahariarshan&theme=aura_dark)
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahariarshan&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahariarshan&theme=aura_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahariarshan&theme=aura_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahariarshan&theme=aura_dark)
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahariarshan&theme=aura_dark&utcOffset=8)
