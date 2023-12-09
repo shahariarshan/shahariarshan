@@ -29,7 +29,7 @@
 
 <div align="center">
  
-[![My Skills](https://skillicons.dev/icons?i=html,tailwind,css,js,express,firebase,mongodb,react,github,netlify,vercel,visualstudio)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,tailwind,css,js,express,firebase)](https://skillicons.dev) 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,react,github,netlify,vercel,visualstudio)](https://skillicons.dev) 
 
 </div>
