@@ -14,12 +14,12 @@
 
 
 ## 🌐 Socials:
-<div align="center>
+<div align="center">
 
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/md.shahariar.311) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/shahariarmohammad)  
 
 </div>
-## 💻 Skills
+# 💻 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,tailwind,css,js,express,firebase,mongodb,react,github,netlify,vercel,visualstudio)](https://skillicons.dev)
 # 📊 GitHub Stats:
