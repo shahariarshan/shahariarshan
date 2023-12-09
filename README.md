@@ -23,7 +23,9 @@
 # 💻 Skills
 
 <div align="center">
+ 
 [![My Skills](https://skillicons.dev/icons?i=html,tailwind,css,js,express,firebase,mongodb,react,github,netlify,vercel,visualstudio)](https://skillicons.dev) 
+
 </div>
 
 # 📊 GitHub Stats:
